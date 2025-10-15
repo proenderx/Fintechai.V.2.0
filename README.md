@@ -33,4 +33,9 @@ FinTech AI Agent is a web-based application designed to help individuals, gig wo
 
 ---
 
-## Instal
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/fintech-ai-agent.git
+   cd fintech-ai-agent
